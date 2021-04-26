@@ -1,0 +1,46 @@
+#design{
+        text-align-last: center;
+    
+}
+img{
+    width: 300px;
+    height:300px;
+    margin-left:0px;
+    margin: 15px;
+} 
+.column{
+    float: left;
+    width: 33.33%;
+}
+.row{
+    content: "";
+    display: table;
+    clear: both;
+}
+h1{
+    text-align: center;
+    color: purple;
+    font-size: xx-large;
+    font-style: oblique;
+}
+h2{color: purple;
+    font-style: normal;
+}
+#q{
+    quotes: "'" "'" ;
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+.line{
+    background:rgb(204, 5, 204);
+    height: 1.5px;
+
+
+}
+#About{
+    color: grey;
+}
+
